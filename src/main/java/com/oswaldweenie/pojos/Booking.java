@@ -1,4 +1,4 @@
-package com.oswaldweenie.ex10_PayloadManagement.gson;
+package com.oswaldweenie.pojos;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
